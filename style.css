@@ -1,0 +1,67 @@
+@font-face {
+    font-family: marsh; /* Гарнитура шрифта */
+    src: url(fonts/Soft_Marshmallow); /* Путь к файлу со шрифтом */
+   }
+
+.title{
+	font-family: Calibri;
+	text-align: center;
+	font-size:80px;
+	font-family: marsh;
+
+}
+.div1{
+    width: auto;
+    border: 5px;
+    padding: 8px;
+    margin: auto;
+    border-color: #008a77;
+    border-style: solid;
+    padding-top:0.01px;
+    padding-bottom:0.01px;
+}
+.div2{
+	width:350px;
+	margin: auto;
+	background:#008a77;
+	font-family: Calibri;
+	font-size:30px;
+	text-align: center;
+	margin-top:40px;
+	font-family: marsh;
+
+}
+.div3{
+	width:350px;
+	margin: auto;
+	background:#008a77;
+	font-family: Calibri;
+	font-size:30px;
+	text-align: center;
+	margin-top:10px;
+	font-family: marsh;
+}
+.imghtml{
+	width: 350px;
+	height: 450px;
+	margin: left;
+	float: left; /* Выравнивание по правому краю */
+    margin: auto;
+    margin-top:20px;
+}
+.imgcss{
+	width: 350px;
+	height: 450px;
+	margin: left;
+	float: right; /* Выравнивание по правому краю */
+    margin: auto;
+    margin-top:20px;
+}
+.prog{
+	display: flex;
+	margin:auto;
+	vertical-align: middle;
+	text-align: center;
+	margin-top:50px;
+	border: 2px solid #0795fa;
+}
